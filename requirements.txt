@@ -1,0 +1,10 @@
+openai
+transformers
+torch
+firecrawl-py
+scikit-learn
+pandas
+numpy
+tqdm
+requests
+scipy
