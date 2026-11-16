@@ -16,11 +16,8 @@ WebHaluCheck is a claim-level factual verification prototype for identifying pot
 
 ```text
 WebHaluCheck/
-├── data/
-│   └── qa_data.json
-├── notebooks/
-│   └── webhalucheck_v3.ipynb
-├── .env.example
+│── qa_data.json
+│── webhalucheck_v3.ipynb
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -28,7 +25,7 @@ WebHaluCheck/
 
 ## Dataset
 
-The notebook expects `data/qa_data.json`. Each record contains:
+The notebook expects `qa_data.json`. Each record contains:
 
 - `knowledge`: reference knowledge/context
 - `question`: the question
