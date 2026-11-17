@@ -105,12 +105,3 @@ The saved experiment configuration uses 50 question pairs (100 answer samples). 
 - The current benchmark run is small and should be expanded across more samples and datasets.
 - The free-form response demo is not, by itself, a large-scale benchmark.
 
-## Citation
-
-Add the full bibliographic citation for the HaluEval dataset/paper and any other third-party models or methods you rely on before publishing this repository.
-
-## Security
-
-- Do not upload API keys, access tokens, passwords, or private account details.
-- Keep `.env` files out of version control.
-- Rotate any credential that may have been exposed in a public repository.
